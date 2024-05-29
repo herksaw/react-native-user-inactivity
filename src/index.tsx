@@ -14,7 +14,7 @@ import {
   defaultTimeoutHandler,
   TimeoutHandler,
   useTimeout,
-} from 'usetimeout-react-hook';
+} from '@conodene/usetimeout-react-hook';
 
 const defaultTimeForInactivity = 10000;
 const defaultStyle: ViewStyle = {
